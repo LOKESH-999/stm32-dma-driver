@@ -14,3 +14,5 @@ it is a mem2mem dma transfer.which transfer 20 byte of int32 array from location
 it is verifyied using led glow pattern. which in fact integrated bare metal interface with gpio registers
 
 there will be further structured way of implementing dma transfers with self written DMA and GPIO drivers
+
+the drivers code are private
